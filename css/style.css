@@ -1,0 +1,60 @@
+body{
+    height: auto;
+    background: teal;
+    
+}
+
+ .filled{
+    fill: lightblue;
+}
+
+
+
+
+
+circle, rect{
+    fill:transparent;
+}
+
+
+.container{
+    
+    height: auto;
+   
+}
+
+table{
+    
+    margin: 20vh 0 0 30vw;
+    
+    
+}
+
+#los{
+    transform: rotate(45deg);
+}
+
+
+button{
+    
+    color: #494949 !important;
+    text-transform: uppercase;
+    background: #ffffff;
+    padding: 20px;
+    border: 4px solid #494949 !important;
+    border-radius: 6px;
+    
+            
+            
+}
+
+button:hover{
+color: #ffffff !important;
+background: #f6b93b;
+border-color: #f6b93b !important;
+transition: all 0.4s ease 0s;
+}
+
+#on{
+    margin-left: 40vw;
+}
